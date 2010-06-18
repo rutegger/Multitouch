@@ -1,13 +1,6 @@
 package{
 	
-	import flash.display.MovieClip;
-	import flash.display.Sprite;
-	import flash.display.StageAlign;
-	import flash.display.StageDisplayState;
-	import flash.display.StageScaleMode;
-	import flash.events.GestureEvent;
-	import flash.events.MouseEvent;
-	import flash.events.TransformGestureEvent;
+
 	
 	public class Multitouch extends MovieClip{
 		
