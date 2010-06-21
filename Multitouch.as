@@ -13,6 +13,8 @@ package{
 		
 		stsfdsfdsfs gvhvhv dssdd ddd dsljkdsljkdskl
 		
+		lkjkljdfljkdsfljkdsfjkldfslkj
+		
 		private var con:Sprite = new Sprite();
 		
 		public function Multitouch(){
