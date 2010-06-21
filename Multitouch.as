@@ -11,7 +11,7 @@ package{
 	
 	public class Multitouch extends MovieClip{
 		
-		stsfdsfdsfs
+		stsfdsfdsfs gvhvhv
 		
 		private var con:Sprite = new Sprite();
 		
