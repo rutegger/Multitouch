@@ -11,7 +11,7 @@ package{
 	
 	public class Multitouch extends MovieClip{
 		
-		stsfdsfdsfs gvhvhv dssdd ddd dsljkdsljkdskl
+		stsfdsfdsfs gvhvhv dssdd ddd dsljkdsljkdskl hhh
 		
 		lkjkljdfljkdsfljkdsfjkldfslkj
 		
